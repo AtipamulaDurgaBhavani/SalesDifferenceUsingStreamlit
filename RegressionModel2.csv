@@ -1,0 +1,201 @@
+Week,Product,Sales,Discount,DiscountedPrice,IntraPortfolioCannibalization,PantryLoadingEffect
+Week1,Product 1,853,50%,426.5,Yes,Yes
+Week1,Product 2,843,50%,421.5,Yes,Yes
+Week1,Product 3,659,10%,593.1,No,No
+Week1,Product 4,977,0%,977,No,No
+Week1,Product 5,917,10%,825.3,No,No
+Week1,Product 6,589,0%,589,No,No
+Week1,Product 7,505,0%,505,No,No
+Week1,Product 8,926,10%,833.4,No,No
+Week1,Product 9,715,10%,643.5,No,No
+Week1,Product 10,644,50%,322,Yes,Yes
+Week1,Product 11,754,50%,377,Yes,Yes
+Week1,Product 12,882,30%,617.4,Yes,No
+Week1,Product 13,788,10%,709.2,No,No
+Week1,Product 14,847,50%,423.5,Yes,Yes
+Week1,Product 15,862,50%,431,Yes,Yes
+Week1,Product 16,837,50%,418.5,Yes,Yes
+Week1,Product 17,714,30%,499.8,Yes,No
+Week1,Product 18,509,50%,254.5,Yes,Yes
+Week1,Product 19,883,0%,883,No,No
+Week1,Product 20,880,30%,616,Yes,No
+Week1,Product 21,938,10%,844.2,No,No
+Week1,Product 22,736,10%,662.4,No,No
+Week1,Product 23,566,0%,566,No,No
+Week1,Product 24,861,10%,774.9,No,No
+Week1,Product 25,979,0%,979,No,No
+Week1,Product 26,736,30%,515.2,Yes,No
+Week1,Product 27,544,50%,272,Yes,Yes
+Week1,Product 28,885,30%,619.5,Yes,No
+Week1,Product 29,575,30%,402.5,Yes,No
+Week1,Product 30,853,0%,853,No,No
+Week1,Product 31,715,30%,500.5,Yes,No
+Week1,Product 32,734,10%,660.6,No,No
+Week1,Product 33,798,10%,718.2,No,No
+Week1,Product 34,845,10%,760.5,No,No
+Week1,Product 35,873,0%,873,No,No
+Week1,Product 36,753,0%,753,No,No
+Week1,Product 37,916,10%,824.4,No,No
+Week1,Product 38,510,50%,255,Yes,Yes
+Week1,Product 39,826,10%,743.4,No,No
+Week1,Product 40,963,50%,481.5,Yes,Yes
+Week1,Product 41,845,50%,422.5,Yes,Yes
+Week1,Product 42,702,50%,351,Yes,Yes
+Week1,Product 43,623,30%,436.1,Yes,No
+Week1,Product 44,944,50%,472,Yes,Yes
+Week1,Product 45,843,50%,421.5,Yes,Yes
+Week1,Product 46,642,0%,642,No,No
+Week1,Product 47,582,50%,291,Yes,Yes
+Week1,Product 48,654,50%,327,Yes,Yes
+Week1,Product 49,805,0%,805,No,No
+Week1,Product 50,848,30%,593.6,Yes,No
+Week1,Product 51,707,30%,494.9,Yes,No
+Week1,Product 52,632,0%,632,No,No
+Week1,Product 53,784,0%,784,No,No
+Week1,Product 54,964,30%,674.8,Yes,No
+Week1,Product 55,883,30%,618.1,Yes,No
+Week1,Product 56,917,30%,641.9,Yes,No
+Week1,Product 57,916,10%,824.4,No,No
+Week1,Product 58,540,30%,378,Yes,No
+Week1,Product 59,971,0%,971,No,No
+Week1,Product 60,763,10%,686.7,No,No
+Week1,Product 61,898,10%,808.2,No,No
+Week1,Product 62,951,0%,951,No,No
+Week1,Product 63,559,0%,559,No,No
+Week1,Product 64,672,10%,604.8,No,No
+Week1,Product 65,843,10%,758.7,No,No
+Week1,Product 66,748,0%,748,No,No
+Week1,Product 67,655,30%,458.5,Yes,No
+Week1,Product 68,583,50%,291.5,Yes,Yes
+Week1,Product 69,954,50%,477,Yes,Yes
+Week1,Product 70,730,10%,657,No,No
+Week1,Product 71,602,30%,421.4,Yes,No
+Week1,Product 72,824,50%,412,Yes,Yes
+Week1,Product 73,811,0%,811,No,No
+Week1,Product 74,510,0%,510,No,No
+Week1,Product 75,744,50%,372,Yes,Yes
+Week1,Product 76,540,0%,540,No,No
+Week1,Product 77,800,50%,400,Yes,Yes
+Week1,Product 78,936,30%,655.2,Yes,No
+Week1,Product 79,870,10%,783,No,No
+Week1,Product 80,777,30%,543.9,Yes,No
+Week1,Product 81,595,50%,297.5,Yes,Yes
+Week1,Product 82,613,10%,551.7,No,No
+Week1,Product 83,738,30%,516.6,Yes,No
+Week1,Product 84,745,30%,521.5,Yes,No
+Week1,Product 85,507,0%,507,No,No
+Week1,Product 86,817,50%,408.5,Yes,Yes
+Week1,Product 87,614,50%,307,Yes,Yes
+Week1,Product 88,883,50%,441.5,Yes,Yes
+Week1,Product 89,563,10%,506.7,No,No
+Week1,Product 90,855,10%,769.5,No,No
+Week1,Product 91,798,0%,798,No,No
+Week1,Product 92,870,10%,783,No,No
+Week1,Product 93,876,30%,613.2,Yes,No
+Week1,Product 94,547,50%,273.5,Yes,Yes
+Week1,Product 95,580,10%,522,No,No
+Week1,Product 96,898,10%,808.2,No,No
+Week1,Product 97,530,0%,530,No,No
+Week1,Product 98,962,30%,673.4,Yes,No
+Week1,Product 99,637,30%,445.9,Yes,No
+Week1,Product 100,611,50%,305.5,Yes,Yes
+Week2,Product1,591,50%,295.5,Yes,Yes
+Week2,Product2,503,0%,503,No,No
+Week2,Product3,673,10%,605.7,No,No
+Week2,Product4,660,50%,330,Yes,Yes
+Week2,Product5,974,30%,681.8,Yes,No
+Week2,Product6,532,10%,478.8,No,No
+Week2,Product7,879,10%,791.1,No,No
+Week2,Product8,965,50%,482.5,Yes,Yes
+Week2,Product9,607,10%,546.3,No,No
+Week2,Product10,706,10%,635.4,No,No
+Week2,Product11,713,50%,356.5,Yes,Yes
+Week2,Product12,983,10%,884.7,No,No
+Week2,Product13,539,30%,377.3,Yes,No
+Week2,Product14,801,50%,400.5,Yes,Yes
+Week2,Product15,692,10%,622.8,No,No
+Week2,Product16,690,50%,345,Yes,Yes
+Week2,Product17,997,0%,997,No,No
+Week2,Product18,669,10%,602.1,No,No
+Week2,Product19,810,30%,567,Yes,No
+Week2,Product20,559,50%,279.5,Yes,Yes
+Week2,Product21,746,10%,671.4,No,No
+Week2,Product22,531,30%,371.7,Yes,No
+Week2,Product23,878,0%,878,No,No
+Week2,Product24,884,30%,618.8,Yes,No
+Week2,Product25,974,0%,974,No,No
+Week2,Product26,676,50%,338,Yes,Yes
+Week2,Product27,604,0%,604,No,No
+Week2,Product28,902,30%,631.4,Yes,No
+Week2,Product29,517,50%,258.5,Yes,Yes
+Week2,Product30,954,10%,858.6,No,No
+Week2,Product31,757,10%,681.3,No,No
+Week2,Product32,818,50%,409,Yes,Yes
+Week2,Product33,1000,50%,500,Yes,Yes
+Week2,Product34,894,10%,804.6,No,No
+Week2,Product35,733,0%,733,No,No
+Week2,Product36,729,50%,364.5,Yes,Yes
+Week2,Product37,501,10%,450.9,No,No
+Week2,Product38,730,30%,511,Yes,No
+Week2,Product39,733,30%,513.1,Yes,No
+Week2,Product40,827,30%,578.9,Yes,No
+Week2,Product41,929,0%,929,No,No
+Week2,Product42,751,50%,375.5,Yes,Yes
+Week2,Product43,929,50%,464.5,Yes,Yes
+Week2,Product44,620,10%,558,No,No
+Week2,Product45,598,30%,418.6,Yes,No
+Week2,Product46,598,50%,299,Yes,Yes
+Week2,Product47,637,0%,637,No,No
+Week2,Product48,553,30%,387.1,Yes,No
+Week2,Product49,972,30%,680.4,Yes,No
+Week2,Product50,577,10%,519.3,No,No
+Week2,Product51,737,10%,663.3,No,No
+Week2,Product52,786,50%,393,Yes,Yes
+Week2,Product53,535,30%,374.5,Yes,No
+Week2,Product54,817,10%,735.3,No,No
+Week2,Product55,568,10%,511.2,No,No
+Week2,Product56,726,0%,726,No,No
+Week2,Product57,654,30%,457.8,Yes,No
+Week2,Product58,975,50%,487.5,Yes,Yes
+Week2,Product59,527,50%,263.5,Yes,Yes
+Week2,Product60,735,30%,514.5,Yes,No
+Week2,Product61,582,10%,523.8,No,No
+Week2,Product62,622,10%,559.8,No,No
+Week2,Product63,846,50%,423,Yes,Yes
+Week2,Product64,966,30%,676.2,Yes,No
+Week2,Product65,799,30%,559.3,Yes,No
+Week2,Product66,920,0%,920,No,No
+Week2,Product67,642,0%,642,No,No
+Week2,Product68,988,0%,988,No,No
+Week2,Product69,503,30%,352.1,Yes,No
+Week2,Product70,588,0%,588,No,No
+Week2,Product71,709,50%,354.5,Yes,Yes
+Week2,Product72,638,50%,319,Yes,Yes
+Week2,Product73,748,10%,673.2,No,No
+Week2,Product74,576,10%,518.4,No,No
+Week2,Product75,586,50%,293,Yes,Yes
+Week2,Product76,675,30%,472.5,Yes,No
+Week2,Product77,873,0%,873,No,No
+Week2,Product78,910,50%,455,Yes,Yes
+Week2,Product79,742,10%,667.8,No,No
+Week2,Product80,601,30%,420.7,Yes,No
+Week2,Product81,855,10%,769.5,No,No
+Week2,Product82,580,10%,522,No,No
+Week2,Product83,594,50%,297,Yes,Yes
+Week2,Product84,855,30%,598.5,Yes,No
+Week2,Product85,957,10%,861.3,No,No
+Week2,Product86,928,50%,464,Yes,Yes
+Week2,Product87,520,30%,364,Yes,No
+Week2,Product88,530,30%,371,Yes,No
+Week2,Product89,535,50%,267.5,Yes,Yes
+Week2,Product90,714,10%,642.6,No,No
+Week2,Product91,799,0%,799,No,No
+Week2,Product92,896,30%,627.2,Yes,No
+Week2,Product93,779,10%,701.1,No,No
+Week2,Product94,858,10%,772.2,No,No
+Week2,Product95,718,0%,718,No,No
+Week2,Product96,766,10%,689.4,No,No
+Week2,Product97,515,50%,257.5,Yes,Yes
+Week2,Product98,756,10%,680.4,No,No
+Week2,Product99,573,10%,515.7,No,No
+Week2,Product100,694,30%,485.8,Yes,No
